@@ -12,7 +12,7 @@ This repository hosts a series of Interactive Python Notebooks (ipynb files) tha
 
 - **Two coins; One fair and one biased**: In this part the focus is on applying the Law of Total Probability and the Bayes Theorem
   
-### Die roll simulations
+### Die roll simulations - Geometric Distribution - LLN
 - **Fair die roll simulations**: This part provides a simulation of a Discrete Random Variable that takes more than two values through another Random Variable that follows the Uniform(0,1) distribution. The focus is on the notions of independence, expected value and conditional expected value.
   
 - **Geometric distribution using coin flip simulations**: This part simulates the Geometric distribution and estimates various probabilities, expected values etc.
